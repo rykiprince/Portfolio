@@ -33,6 +33,13 @@ h5 {
     padding: 5px 30px;
 }
 
+.btn-secondary {
+    background-color: #f08582;
+    border-color: #f08582;
+    padding: 5px 27px;
+    margin-top: 8px;
+}
+
 .btn-primary:hover,
 .btn-primary:active, 
 .btn-primary:focus {
@@ -47,6 +54,10 @@ h5 {
     background-image: linear-gradient(to right, #fff, #0e5eab, #fff);
     max-width: 350px;
     margin-bottom: 50px;
+}
+
+.fa-chevron-down {
+    scroll-behavior: smooth;
 }
 
 .fragment {
